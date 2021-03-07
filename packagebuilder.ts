@@ -7,8 +7,7 @@ let new_package_json = input_package_json;
 function compare(diff: number[], min: number[]) {
     let j = 0;
     const length_list = diff.length;
-    console.log(diff)
-    console.log(min);
+
     let flag_positive = false,flag_less= false;
     // checking whether the difference between 2 version is greater that 0
     while (j < length_list) {
