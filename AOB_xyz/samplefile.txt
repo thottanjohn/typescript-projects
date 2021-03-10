@@ -1,0 +1,8 @@
+asa  a  sd   b  ff  process.env.NPM
+
+process.env.abc
+
+process.env.ABC
+process.env.XYZ
+
+abcdabcd
